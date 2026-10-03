@@ -1,1 +1,2 @@
 Use Git like Pro Excercise 1
+Added this line after renaming the remote from origin to base.
